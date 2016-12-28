@@ -1,0 +1,808 @@
+2016-12-24 14:34:39,036 [INFO ][main            ][                Main] - STUDENTS TABLE
+2016-12-24 14:34:39,041 [INFO ][main            ][                Main] - 0 | name0
+2016-12-24 14:34:39,041 [INFO ][main            ][                Main] - 1 | name1
+2016-12-24 14:34:39,042 [INFO ][main            ][                Main] - 2 | name2
+2016-12-24 14:34:39,042 [INFO ][main            ][                Main] - 3 | name3
+2016-12-24 14:34:39,042 [INFO ][main            ][                Main] - 4 | name4
+2016-12-24 14:34:39,042 [INFO ][main            ][                Main] - 5 | name5
+2016-12-24 14:34:39,042 [INFO ][main            ][                Main] - 6 | name6
+2016-12-24 14:34:39,042 [INFO ][main            ][                Main] - 7 | name7
+2016-12-24 14:34:39,042 [INFO ][main            ][                Main] - 8 | name8
+2016-12-24 14:34:39,042 [INFO ][main            ][                Main] - 9 | name9
+2016-12-24 14:34:39,042 [INFO ][main            ][                Main] - 10 | name10
+2016-12-24 14:34:39,042 [INFO ][main            ][                Main] - 11 | name11
+2016-12-24 14:34:39,043 [INFO ][main            ][                Main] - 12 | name12
+2016-12-24 14:34:39,043 [INFO ][main            ][                Main] - 13 | name13
+2016-12-24 14:34:39,043 [INFO ][main            ][                Main] - 14 | name14
+2016-12-24 14:34:39,046 [INFO ][main            ][                Main] - 15 | name15
+2016-12-24 14:34:39,046 [INFO ][main            ][                Main] - 16 | name16
+2016-12-24 14:34:39,046 [INFO ][main            ][                Main] - 17 | name17
+2016-12-24 14:34:39,046 [INFO ][main            ][                Main] - 18 | name18
+2016-12-24 14:34:39,047 [INFO ][main            ][                Main] - 19 | name19
+2016-12-24 14:34:39,047 [INFO ][main            ][                Main] - 20 | name20
+2016-12-24 14:34:39,047 [INFO ][main            ][                Main] - 21 | name21
+2016-12-24 14:34:39,047 [INFO ][main            ][                Main] - 22 | name22
+2016-12-24 14:34:39,047 [INFO ][main            ][                Main] - 23 | name23
+2016-12-24 14:34:39,047 [INFO ][main            ][                Main] - 24 | name24
+2016-12-24 14:34:39,047 [INFO ][main            ][                Main] - 25 | name25
+2016-12-24 14:34:39,047 [INFO ][main            ][                Main] - 26 | name26
+2016-12-24 14:34:39,047 [INFO ][main            ][                Main] - 27 | name27
+2016-12-24 14:34:39,047 [INFO ][main            ][                Main] - 28 | name28
+2016-12-24 14:34:39,047 [INFO ][main            ][                Main] - 29 | name29
+2016-12-24 14:34:39,048 [INFO ][main            ][                Main] - 30 | name30
+2016-12-24 14:34:39,048 [INFO ][main            ][                Main] - 31 | name31
+2016-12-24 14:34:39,048 [INFO ][main            ][                Main] - 32 | name32
+2016-12-24 14:34:39,048 [INFO ][main            ][                Main] - 33 | name33
+2016-12-24 14:34:39,048 [INFO ][main            ][                Main] - 34 | name34
+2016-12-24 14:34:39,048 [INFO ][main            ][                Main] - 35 | name35
+2016-12-24 14:34:39,048 [INFO ][main            ][                Main] - 36 | name36
+2016-12-24 14:34:39,048 [INFO ][main            ][                Main] - 37 | name37
+2016-12-24 14:34:39,048 [INFO ][main            ][                Main] - 38 | name38
+2016-12-24 14:34:39,048 [INFO ][main            ][                Main] - 39 | name39
+2016-12-24 14:34:39,048 [INFO ][main            ][                Main] - 40 | name40
+2016-12-24 14:34:39,049 [INFO ][main            ][                Main] - 41 | name41
+2016-12-24 14:34:39,049 [INFO ][main            ][                Main] - 42 | name42
+2016-12-24 14:34:39,049 [INFO ][main            ][                Main] - 43 | name43
+2016-12-24 14:34:39,049 [INFO ][main            ][                Main] - 44 | name44
+2016-12-24 14:34:39,049 [INFO ][main            ][                Main] - 45 | name45
+2016-12-24 14:34:39,049 [INFO ][main            ][                Main] - 46 | name46
+2016-12-24 14:34:39,049 [INFO ][main            ][                Main] - 47 | name47
+2016-12-24 14:34:39,049 [INFO ][main            ][                Main] - 48 | name48
+2016-12-24 14:34:39,050 [INFO ][main            ][                Main] - 49 | name49
+2016-12-24 14:34:39,050 [INFO ][main            ][                Main] - 50 | name50
+2016-12-24 14:34:39,050 [INFO ][main            ][                Main] - 51 | name51
+2016-12-24 14:34:39,050 [INFO ][main            ][                Main] - 52 | name52
+2016-12-24 14:34:39,050 [INFO ][main            ][                Main] - 53 | name53
+2016-12-24 14:34:39,050 [INFO ][main            ][                Main] - 54 | name54
+2016-12-24 14:34:39,051 [INFO ][main            ][                Main] - 55 | name55
+2016-12-24 14:34:39,051 [INFO ][main            ][                Main] - 56 | name56
+2016-12-24 14:34:39,051 [INFO ][main            ][                Main] - 57 | name57
+2016-12-24 14:34:39,051 [INFO ][main            ][                Main] - 58 | name58
+2016-12-24 14:34:39,051 [INFO ][main            ][                Main] - 59 | name59
+2016-12-24 14:34:39,051 [INFO ][main            ][                Main] - 60 | name60
+2016-12-24 14:34:39,052 [INFO ][main            ][                Main] - 61 | name61
+2016-12-24 14:34:39,052 [INFO ][main            ][                Main] - 62 | name62
+2016-12-24 14:34:39,052 [INFO ][main            ][                Main] - 63 | name63
+2016-12-24 14:34:39,052 [INFO ][main            ][                Main] - 64 | name64
+2016-12-24 14:34:39,052 [INFO ][main            ][                Main] - 65 | name65
+2016-12-24 14:34:39,052 [INFO ][main            ][                Main] - 66 | name66
+2016-12-24 14:34:39,052 [INFO ][main            ][                Main] - 67 | name67
+2016-12-24 14:34:39,052 [INFO ][main            ][                Main] - 68 | name68
+2016-12-24 14:34:39,053 [INFO ][main            ][                Main] - 69 | name69
+2016-12-24 14:34:39,053 [INFO ][main            ][                Main] - 70 | name70
+2016-12-24 14:34:39,053 [INFO ][main            ][                Main] - 71 | name71
+2016-12-24 14:34:39,053 [INFO ][main            ][                Main] - 72 | name72
+2016-12-24 14:34:39,053 [INFO ][main            ][                Main] - 73 | name73
+2016-12-24 14:34:39,053 [INFO ][main            ][                Main] - 74 | name74
+2016-12-24 14:34:39,053 [INFO ][main            ][                Main] - 75 | name75
+2016-12-24 14:34:39,053 [INFO ][main            ][                Main] - 76 | name76
+2016-12-24 14:34:39,053 [INFO ][main            ][                Main] - 77 | name77
+2016-12-24 14:34:39,053 [INFO ][main            ][                Main] - 78 | name78
+2016-12-24 14:34:39,053 [INFO ][main            ][                Main] - 79 | name79
+2016-12-24 14:34:39,054 [INFO ][main            ][                Main] - 80 | name80
+2016-12-24 14:34:39,054 [INFO ][main            ][                Main] - 81 | name81
+2016-12-24 14:34:39,054 [INFO ][main            ][                Main] - 82 | name82
+2016-12-24 14:34:39,054 [INFO ][main            ][                Main] - 83 | name83
+2016-12-24 14:34:39,054 [INFO ][main            ][                Main] - 84 | name84
+2016-12-24 14:34:39,054 [INFO ][main            ][                Main] - 85 | name85
+2016-12-24 14:34:39,054 [INFO ][main            ][                Main] - 86 | name86
+2016-12-24 14:34:39,054 [INFO ][main            ][                Main] - 87 | name87
+2016-12-24 14:34:39,055 [INFO ][main            ][                Main] - 88 | name88
+2016-12-24 14:34:39,055 [INFO ][main            ][                Main] - 89 | name89
+2016-12-24 14:34:39,055 [INFO ][main            ][                Main] - 90 | name90
+2016-12-24 14:34:39,055 [INFO ][main            ][                Main] - 91 | name91
+2016-12-24 14:34:39,055 [INFO ][main            ][                Main] - 92 | name92
+2016-12-24 14:34:39,055 [INFO ][main            ][                Main] - 93 | name93
+2016-12-24 14:34:39,055 [INFO ][main            ][                Main] - 94 | name94
+2016-12-24 14:34:39,055 [INFO ][main            ][                Main] - 95 | name95
+2016-12-24 14:34:39,055 [INFO ][main            ][                Main] - 96 | name96
+2016-12-24 14:34:39,056 [INFO ][main            ][                Main] - 97 | name97
+2016-12-24 14:34:39,056 [INFO ][main            ][                Main] - 98 | name98
+2016-12-24 14:34:39,056 [INFO ][main            ][                Main] - 99 | name99
+2016-12-24 14:34:39,056 [INFO ][main            ][                Main] - 100 | name100
+2016-12-24 14:34:39,056 [INFO ][main            ][                Main] - 101 | name101
+2016-12-24 14:34:39,056 [INFO ][main            ][                Main] - 102 | name102
+2016-12-24 14:34:39,056 [INFO ][main            ][                Main] - 103 | name103
+2016-12-24 14:34:39,056 [INFO ][main            ][                Main] - 104 | name104
+2016-12-24 14:34:39,056 [INFO ][main            ][                Main] - 105 | name105
+2016-12-24 14:34:39,056 [INFO ][main            ][                Main] - 106 | name106
+2016-12-24 14:34:39,057 [INFO ][main            ][                Main] - 107 | name107
+2016-12-24 14:34:39,057 [INFO ][main            ][                Main] - 108 | name108
+2016-12-24 14:34:39,057 [INFO ][main            ][                Main] - 109 | name109
+2016-12-24 14:34:39,059 [INFO ][main            ][                Main] - 110 | name110
+2016-12-24 14:34:39,060 [INFO ][main            ][                Main] - 111 | name111
+2016-12-24 14:34:39,060 [INFO ][main            ][                Main] - 112 | name112
+2016-12-24 14:34:39,060 [INFO ][main            ][                Main] - 113 | name113
+2016-12-24 14:34:39,060 [INFO ][main            ][                Main] - 114 | name114
+2016-12-24 14:34:39,060 [INFO ][main            ][                Main] - 115 | name115
+2016-12-24 14:34:39,060 [INFO ][main            ][                Main] - 116 | name116
+2016-12-24 14:34:39,060 [INFO ][main            ][                Main] - 117 | name117
+2016-12-24 14:34:39,060 [INFO ][main            ][                Main] - 118 | name118
+2016-12-24 14:34:39,061 [INFO ][main            ][                Main] - 119 | name119
+2016-12-24 14:34:39,061 [INFO ][main            ][                Main] - 120 | name120
+2016-12-24 14:34:39,061 [INFO ][main            ][                Main] - 121 | name121
+2016-12-24 14:34:39,061 [INFO ][main            ][                Main] - 122 | name122
+2016-12-24 14:34:39,061 [INFO ][main            ][                Main] - 123 | name123
+2016-12-24 14:34:39,061 [INFO ][main            ][                Main] - 124 | name124
+2016-12-24 14:34:39,061 [INFO ][main            ][                Main] - 125 | name125
+2016-12-24 14:34:39,061 [INFO ][main            ][                Main] - 126 | name126
+2016-12-24 14:34:39,062 [INFO ][main            ][                Main] - 127 | name127
+2016-12-24 14:34:39,062 [INFO ][main            ][                Main] - 128 | name128
+2016-12-24 14:34:39,062 [INFO ][main            ][                Main] - 129 | name129
+2016-12-24 14:34:39,062 [INFO ][main            ][                Main] - 130 | name130
+2016-12-24 14:34:39,062 [INFO ][main            ][                Main] - 131 | name131
+2016-12-24 14:34:39,062 [INFO ][main            ][                Main] - 132 | name132
+2016-12-24 14:34:39,062 [INFO ][main            ][                Main] - 133 | name133
+2016-12-24 14:34:39,063 [INFO ][main            ][                Main] - 134 | name134
+2016-12-24 14:34:39,063 [INFO ][main            ][                Main] - 135 | name135
+2016-12-24 14:34:39,063 [INFO ][main            ][                Main] - 136 | name136
+2016-12-24 14:34:39,063 [INFO ][main            ][                Main] - 137 | name137
+2016-12-24 14:34:39,063 [INFO ][main            ][                Main] - 138 | name138
+2016-12-24 14:34:39,063 [INFO ][main            ][                Main] - 139 | name139
+2016-12-24 14:34:39,063 [INFO ][main            ][                Main] - 140 | name140
+2016-12-24 14:34:39,063 [INFO ][main            ][                Main] - 141 | name141
+2016-12-24 14:34:39,063 [INFO ][main            ][                Main] - 142 | name142
+2016-12-24 14:34:39,064 [INFO ][main            ][                Main] - 143 | name143
+2016-12-24 14:34:39,064 [INFO ][main            ][                Main] - 144 | name144
+2016-12-24 14:34:39,064 [INFO ][main            ][                Main] - 145 | name145
+2016-12-24 14:34:39,064 [INFO ][main            ][                Main] - 146 | name146
+2016-12-24 14:34:39,064 [INFO ][main            ][                Main] - 147 | name147
+2016-12-24 14:34:39,064 [INFO ][main            ][                Main] - 148 | name148
+2016-12-24 14:34:39,064 [INFO ][main            ][                Main] - 149 | name149
+2016-12-24 14:34:39,064 [INFO ][main            ][                Main] - 150 | name150
+2016-12-24 14:34:39,064 [INFO ][main            ][                Main] - 151 | name151
+2016-12-24 14:34:39,065 [INFO ][main            ][                Main] - 152 | name152
+2016-12-24 14:34:39,065 [INFO ][main            ][                Main] - 153 | name153
+2016-12-24 14:34:39,065 [INFO ][main            ][                Main] - 154 | name154
+2016-12-24 14:34:39,065 [INFO ][main            ][                Main] - 155 | name155
+2016-12-24 14:34:39,065 [INFO ][main            ][                Main] - 156 | name156
+2016-12-24 14:34:39,065 [INFO ][main            ][                Main] - 157 | name157
+2016-12-24 14:34:39,065 [INFO ][main            ][                Main] - 158 | name158
+2016-12-24 14:34:39,065 [INFO ][main            ][                Main] - 159 | name159
+2016-12-24 14:34:39,066 [INFO ][main            ][                Main] - 160 | name160
+2016-12-24 14:34:39,066 [INFO ][main            ][                Main] - 161 | name161
+2016-12-24 14:34:39,066 [INFO ][main            ][                Main] - 162 | name162
+2016-12-24 14:34:39,067 [INFO ][main            ][                Main] - 163 | name163
+2016-12-24 14:34:39,067 [INFO ][main            ][                Main] - 164 | name164
+2016-12-24 14:34:39,067 [INFO ][main            ][                Main] - 165 | name165
+2016-12-24 14:34:39,067 [INFO ][main            ][                Main] - 166 | name166
+2016-12-24 14:34:39,067 [INFO ][main            ][                Main] - 167 | name167
+2016-12-24 14:34:39,067 [INFO ][main            ][                Main] - 168 | name168
+2016-12-24 14:34:39,067 [INFO ][main            ][                Main] - 169 | name169
+2016-12-24 14:34:39,068 [INFO ][main            ][                Main] - 170 | name170
+2016-12-24 14:34:39,068 [INFO ][main            ][                Main] - 171 | name171
+2016-12-24 14:34:39,068 [INFO ][main            ][                Main] - 172 | name172
+2016-12-24 14:34:39,068 [INFO ][main            ][                Main] - 173 | name173
+2016-12-24 14:34:39,068 [INFO ][main            ][                Main] - 174 | name174
+2016-12-24 14:34:39,069 [INFO ][main            ][                Main] - 175 | name175
+2016-12-24 14:34:39,069 [INFO ][main            ][                Main] - 176 | name176
+2016-12-24 14:34:39,069 [INFO ][main            ][                Main] - 177 | name177
+2016-12-24 14:34:39,069 [INFO ][main            ][                Main] - 178 | name178
+2016-12-24 14:34:39,069 [INFO ][main            ][                Main] - 179 | name179
+2016-12-24 14:34:39,069 [INFO ][main            ][                Main] - 180 | name180
+2016-12-24 14:34:39,069 [INFO ][main            ][                Main] - 181 | name181
+2016-12-24 14:34:39,069 [INFO ][main            ][                Main] - 182 | name182
+2016-12-24 14:34:39,070 [INFO ][main            ][                Main] - 183 | name183
+2016-12-24 14:34:39,070 [INFO ][main            ][                Main] - 184 | name184
+2016-12-24 14:34:39,070 [INFO ][main            ][                Main] - 185 | name185
+2016-12-24 14:34:39,070 [INFO ][main            ][                Main] - 186 | name186
+2016-12-24 14:34:39,070 [INFO ][main            ][                Main] - 187 | name187
+2016-12-24 14:34:39,070 [INFO ][main            ][                Main] - 188 | name188
+2016-12-24 14:34:39,070 [INFO ][main            ][                Main] - 189 | name189
+2016-12-24 14:34:39,070 [INFO ][main            ][                Main] - 190 | name190
+2016-12-24 14:34:39,070 [INFO ][main            ][                Main] - 191 | name191
+2016-12-24 14:34:39,071 [INFO ][main            ][                Main] - 192 | name192
+2016-12-24 14:34:39,071 [INFO ][main            ][                Main] - 193 | name193
+2016-12-24 14:34:39,071 [INFO ][main            ][                Main] - 194 | name194
+2016-12-24 14:34:39,071 [INFO ][main            ][                Main] - 195 | name195
+2016-12-24 14:34:39,071 [INFO ][main            ][                Main] - 196 | name196
+2016-12-24 14:34:39,071 [INFO ][main            ][                Main] - 197 | name197
+2016-12-24 14:34:39,071 [INFO ][main            ][                Main] - 198 | name198
+2016-12-24 14:34:39,071 [INFO ][main            ][                Main] - 199 | name199
+2016-12-24 14:34:39,085 [INFO ][main            ][                Main] - LECTURES TABLE
+2016-12-24 14:34:39,085 [INFO ][main            ][                Main] - 0 | Course name 0
+2016-12-24 14:34:39,085 [INFO ][main            ][                Main] - 1 | Course name 1
+2016-12-24 14:34:39,085 [INFO ][main            ][                Main] - 2 | Course name 2
+2016-12-24 14:34:39,085 [INFO ][main            ][                Main] - 3 | Course name 3
+2016-12-24 14:34:39,086 [INFO ][main            ][                Main] - 4 | Course name 4
+2016-12-24 14:34:39,086 [INFO ][main            ][                Main] - 5 | Course name 5
+2016-12-24 14:34:39,086 [INFO ][main            ][                Main] - 6 | Course name 6
+2016-12-24 14:34:39,086 [INFO ][main            ][                Main] - 7 | Course name 7
+2016-12-24 14:34:39,086 [INFO ][main            ][                Main] - 8 | Course name 8
+2016-12-24 14:34:39,086 [INFO ][main            ][                Main] - 9 | Course name 9
+2016-12-24 14:34:39,086 [INFO ][main            ][                Main] - 10 | Course name 10
+2016-12-24 14:34:39,086 [INFO ][main            ][                Main] - 11 | Course name 11
+2016-12-24 14:34:39,086 [INFO ][main            ][                Main] - 12 | Course name 12
+2016-12-24 14:34:39,087 [INFO ][main            ][                Main] - 13 | Course name 13
+2016-12-24 14:34:39,087 [INFO ][main            ][                Main] - 14 | Course name 14
+2016-12-24 14:34:39,087 [INFO ][main            ][                Main] - 15 | Course name 15
+2016-12-24 14:34:39,087 [INFO ][main            ][                Main] - 16 | Course name 16
+2016-12-24 14:34:39,087 [INFO ][main            ][                Main] - 17 | Course name 17
+2016-12-24 14:34:39,087 [INFO ][main            ][                Main] - 18 | Course name 18
+2016-12-24 14:34:39,087 [INFO ][main            ][                Main] - 19 | Course name 19
+2016-12-24 14:34:39,087 [INFO ][main            ][                Main] - 20 | Course name 20
+2016-12-24 14:34:39,087 [INFO ][main            ][                Main] - 21 | Course name 21
+2016-12-24 14:34:39,087 [INFO ][main            ][                Main] - 22 | Course name 22
+2016-12-24 14:34:39,087 [INFO ][main            ][                Main] - 23 | Course name 23
+2016-12-24 14:34:39,088 [INFO ][main            ][                Main] - 24 | Course name 24
+2016-12-24 14:34:39,088 [INFO ][main            ][                Main] - 25 | Course name 25
+2016-12-24 14:34:39,088 [INFO ][main            ][                Main] - 26 | Course name 26
+2016-12-24 14:34:39,088 [INFO ][main            ][                Main] - 27 | Course name 27
+2016-12-24 14:34:39,088 [INFO ][main            ][                Main] - 28 | Course name 28
+2016-12-24 14:34:39,088 [INFO ][main            ][                Main] - 29 | Course name 29
+2016-12-24 14:34:39,088 [INFO ][main            ][                Main] - 30 | Course name 30
+2016-12-24 14:34:39,088 [INFO ][main            ][                Main] - 31 | Course name 31
+2016-12-24 14:34:39,088 [INFO ][main            ][                Main] - 32 | Course name 32
+2016-12-24 14:34:39,089 [INFO ][main            ][                Main] - 33 | Course name 33
+2016-12-24 14:34:39,098 [INFO ][main            ][                Main] - 34 | Course name 34
+2016-12-24 14:34:39,098 [INFO ][main            ][                Main] - 35 | Course name 35
+2016-12-24 14:34:39,098 [INFO ][main            ][                Main] - 36 | Course name 36
+2016-12-24 14:34:39,098 [INFO ][main            ][                Main] - 37 | Course name 37
+2016-12-24 14:34:39,098 [INFO ][main            ][                Main] - 38 | Course name 38
+2016-12-24 14:34:39,098 [INFO ][main            ][                Main] - 39 | Course name 39
+2016-12-24 14:34:39,100 [INFO ][main            ][                Main] - 40 | Course name 40
+2016-12-24 14:34:39,100 [INFO ][main            ][                Main] - 41 | Course name 41
+2016-12-24 14:34:39,100 [INFO ][main            ][                Main] - 42 | Course name 42
+2016-12-24 14:34:39,100 [INFO ][main            ][                Main] - 43 | Course name 43
+2016-12-24 14:34:39,100 [INFO ][main            ][                Main] - 44 | Course name 44
+2016-12-24 14:34:39,100 [INFO ][main            ][                Main] - 45 | Course name 45
+2016-12-24 14:34:39,100 [INFO ][main            ][                Main] - 46 | Course name 46
+2016-12-24 14:34:39,101 [INFO ][main            ][                Main] - 47 | Course name 47
+2016-12-24 14:34:39,101 [INFO ][main            ][                Main] - 48 | Course name 48
+2016-12-24 14:34:39,101 [INFO ][main            ][                Main] - 49 | Course name 49
+2016-12-24 14:34:39,101 [INFO ][main            ][                Main] - 50 | Course name 50
+2016-12-24 14:34:39,101 [INFO ][main            ][                Main] - 51 | Course name 51
+2016-12-24 14:34:39,101 [INFO ][main            ][                Main] - 52 | Course name 52
+2016-12-24 14:34:39,102 [INFO ][main            ][                Main] - 53 | Course name 53
+2016-12-24 14:34:39,102 [INFO ][main            ][                Main] - 54 | Course name 54
+2016-12-24 14:34:39,102 [INFO ][main            ][                Main] - 55 | Course name 55
+2016-12-24 14:34:39,102 [INFO ][main            ][                Main] - 56 | Course name 56
+2016-12-24 14:34:39,102 [INFO ][main            ][                Main] - 57 | Course name 57
+2016-12-24 14:34:39,127 [INFO ][main            ][                Main] - 58 | Course name 58
+2016-12-24 14:34:39,127 [INFO ][main            ][                Main] - 59 | Course name 59
+2016-12-24 14:34:39,127 [INFO ][main            ][                Main] - 60 | Course name 60
+2016-12-24 14:34:39,127 [INFO ][main            ][                Main] - 61 | Course name 61
+2016-12-24 14:34:39,127 [INFO ][main            ][                Main] - 62 | Course name 62
+2016-12-24 14:34:39,128 [INFO ][main            ][                Main] - 63 | Course name 63
+2016-12-24 14:34:39,128 [INFO ][main            ][                Main] - 64 | Course name 64
+2016-12-24 14:34:39,128 [INFO ][main            ][                Main] - 65 | Course name 65
+2016-12-24 14:34:39,128 [INFO ][main            ][                Main] - 66 | Course name 66
+2016-12-24 14:34:39,128 [INFO ][main            ][                Main] - 67 | Course name 67
+2016-12-24 14:34:39,128 [INFO ][main            ][                Main] - 68 | Course name 68
+2016-12-24 14:34:39,128 [INFO ][main            ][                Main] - 69 | Course name 69
+2016-12-24 14:34:39,128 [INFO ][main            ][                Main] - 70 | Course name 70
+2016-12-24 14:34:39,129 [INFO ][main            ][                Main] - 71 | Course name 71
+2016-12-24 14:34:39,129 [INFO ][main            ][                Main] - 72 | Course name 72
+2016-12-24 14:34:39,129 [INFO ][main            ][                Main] - 73 | Course name 73
+2016-12-24 14:34:39,129 [INFO ][main            ][                Main] - 74 | Course name 74
+2016-12-24 14:34:39,129 [INFO ][main            ][                Main] - 75 | Course name 75
+2016-12-24 14:34:39,132 [INFO ][main            ][                Main] - 76 | Course name 76
+2016-12-24 14:34:39,132 [INFO ][main            ][                Main] - 77 | Course name 77
+2016-12-24 14:34:39,133 [INFO ][main            ][                Main] - 78 | Course name 78
+2016-12-24 14:34:39,133 [INFO ][main            ][                Main] - 79 | Course name 79
+2016-12-24 14:34:39,133 [INFO ][main            ][                Main] - 80 | Course name 80
+2016-12-24 14:34:39,133 [INFO ][main            ][                Main] - 81 | Course name 81
+2016-12-24 14:34:39,133 [INFO ][main            ][                Main] - 82 | Course name 82
+2016-12-24 14:34:39,133 [INFO ][main            ][                Main] - 83 | Course name 83
+2016-12-24 14:34:39,133 [INFO ][main            ][                Main] - 84 | Course name 84
+2016-12-24 14:34:39,133 [INFO ][main            ][                Main] - 85 | Course name 85
+2016-12-24 14:34:39,133 [INFO ][main            ][                Main] - 86 | Course name 86
+2016-12-24 14:34:39,133 [INFO ][main            ][                Main] - 87 | Course name 87
+2016-12-24 14:34:39,134 [INFO ][main            ][                Main] - 88 | Course name 88
+2016-12-24 14:34:39,134 [INFO ][main            ][                Main] - 89 | Course name 89
+2016-12-24 14:34:39,134 [INFO ][main            ][                Main] - 90 | Course name 90
+2016-12-24 14:34:39,134 [INFO ][main            ][                Main] - 91 | Course name 91
+2016-12-24 14:34:39,134 [INFO ][main            ][                Main] - 92 | Course name 92
+2016-12-24 14:34:39,134 [INFO ][main            ][                Main] - 93 | Course name 93
+2016-12-24 14:34:39,134 [INFO ][main            ][                Main] - 94 | Course name 94
+2016-12-24 14:34:39,134 [INFO ][main            ][                Main] - 95 | Course name 95
+2016-12-24 14:34:39,134 [INFO ][main            ][                Main] - 96 | Course name 96
+2016-12-24 14:34:39,134 [INFO ][main            ][                Main] - 97 | Course name 97
+2016-12-24 14:34:39,134 [INFO ][main            ][                Main] - 98 | Course name 98
+2016-12-24 14:34:39,134 [INFO ][main            ][                Main] - 99 | Course name 99
+2016-12-24 14:34:39,134 [INFO ][main            ][                Main] - 100 | Course name 100
+2016-12-24 14:34:39,134 [INFO ][main            ][                Main] - 101 | Course name 101
+2016-12-24 14:34:39,135 [INFO ][main            ][                Main] - 102 | Course name 102
+2016-12-24 14:34:39,135 [INFO ][main            ][                Main] - 103 | Course name 103
+2016-12-24 14:34:39,135 [INFO ][main            ][                Main] - 104 | Course name 104
+2016-12-24 14:34:39,135 [INFO ][main            ][                Main] - 105 | Course name 105
+2016-12-24 14:34:39,135 [INFO ][main            ][                Main] - 106 | Course name 106
+2016-12-24 14:34:39,135 [INFO ][main            ][                Main] - 107 | Course name 107
+2016-12-24 14:34:39,135 [INFO ][main            ][                Main] - 108 | Course name 108
+2016-12-24 14:34:39,135 [INFO ][main            ][                Main] - 109 | Course name 109
+2016-12-24 14:34:39,135 [INFO ][main            ][                Main] - 110 | Course name 110
+2016-12-24 14:34:39,135 [INFO ][main            ][                Main] - 111 | Course name 111
+2016-12-24 14:34:39,135 [INFO ][main            ][                Main] - 112 | Course name 112
+2016-12-24 14:34:39,135 [INFO ][main            ][                Main] - 113 | Course name 113
+2016-12-24 14:34:39,135 [INFO ][main            ][                Main] - 114 | Course name 114
+2016-12-24 14:34:39,135 [INFO ][main            ][                Main] - 115 | Course name 115
+2016-12-24 14:34:39,136 [INFO ][main            ][                Main] - 116 | Course name 116
+2016-12-24 14:34:39,136 [INFO ][main            ][                Main] - 117 | Course name 117
+2016-12-24 14:34:39,136 [INFO ][main            ][                Main] - 118 | Course name 118
+2016-12-24 14:34:39,136 [INFO ][main            ][                Main] - 119 | Course name 119
+2016-12-24 14:34:39,136 [INFO ][main            ][                Main] - 120 | Course name 120
+2016-12-24 14:34:39,136 [INFO ][main            ][                Main] - 121 | Course name 121
+2016-12-24 14:34:39,136 [INFO ][main            ][                Main] - 122 | Course name 122
+2016-12-24 14:34:39,136 [INFO ][main            ][                Main] - 123 | Course name 123
+2016-12-24 14:34:39,136 [INFO ][main            ][                Main] - 124 | Course name 124
+2016-12-24 14:34:39,136 [INFO ][main            ][                Main] - 125 | Course name 125
+2016-12-24 14:34:39,136 [INFO ][main            ][                Main] - 126 | Course name 126
+2016-12-24 14:34:39,136 [INFO ][main            ][                Main] - 127 | Course name 127
+2016-12-24 14:34:39,136 [INFO ][main            ][                Main] - 128 | Course name 128
+2016-12-24 14:34:39,136 [INFO ][main            ][                Main] - 129 | Course name 129
+2016-12-24 14:34:39,137 [INFO ][main            ][                Main] - 130 | Course name 130
+2016-12-24 14:34:39,137 [INFO ][main            ][                Main] - 131 | Course name 131
+2016-12-24 14:34:39,137 [INFO ][main            ][                Main] - 132 | Course name 132
+2016-12-24 14:34:39,137 [INFO ][main            ][                Main] - 133 | Course name 133
+2016-12-24 14:34:39,137 [INFO ][main            ][                Main] - 134 | Course name 134
+2016-12-24 14:34:39,138 [INFO ][main            ][                Main] - 135 | Course name 135
+2016-12-24 14:34:39,138 [INFO ][main            ][                Main] - 136 | Course name 136
+2016-12-24 14:34:39,138 [INFO ][main            ][                Main] - 137 | Course name 137
+2016-12-24 14:34:39,138 [INFO ][main            ][                Main] - 138 | Course name 138
+2016-12-24 14:34:39,138 [INFO ][main            ][                Main] - 139 | Course name 139
+2016-12-24 14:34:39,138 [INFO ][main            ][                Main] - 140 | Course name 140
+2016-12-24 14:34:39,138 [INFO ][main            ][                Main] - 141 | Course name 141
+2016-12-24 14:34:39,138 [INFO ][main            ][                Main] - 142 | Course name 142
+2016-12-24 14:34:39,138 [INFO ][main            ][                Main] - 143 | Course name 143
+2016-12-24 14:34:39,139 [INFO ][main            ][                Main] - 144 | Course name 144
+2016-12-24 14:34:39,139 [INFO ][main            ][                Main] - 145 | Course name 145
+2016-12-24 14:34:39,139 [INFO ][main            ][                Main] - 146 | Course name 146
+2016-12-24 14:34:39,139 [INFO ][main            ][                Main] - 147 | Course name 147
+2016-12-24 14:34:39,139 [INFO ][main            ][                Main] - 148 | Course name 148
+2016-12-24 14:34:39,139 [INFO ][main            ][                Main] - 149 | Course name 149
+2016-12-24 14:34:39,139 [INFO ][main            ][                Main] - 150 | Course name 150
+2016-12-24 14:34:39,139 [INFO ][main            ][                Main] - 151 | Course name 151
+2016-12-24 14:34:39,139 [INFO ][main            ][                Main] - 152 | Course name 152
+2016-12-24 14:34:39,139 [INFO ][main            ][                Main] - 153 | Course name 153
+2016-12-24 14:34:39,140 [INFO ][main            ][                Main] - 154 | Course name 154
+2016-12-24 14:34:39,140 [INFO ][main            ][                Main] - 155 | Course name 155
+2016-12-24 14:34:39,140 [INFO ][main            ][                Main] - 156 | Course name 156
+2016-12-24 14:34:39,140 [INFO ][main            ][                Main] - 157 | Course name 157
+2016-12-24 14:34:39,140 [INFO ][main            ][                Main] - 158 | Course name 158
+2016-12-24 14:34:39,140 [INFO ][main            ][                Main] - 159 | Course name 159
+2016-12-24 14:34:39,140 [INFO ][main            ][                Main] - 160 | Course name 160
+2016-12-24 14:34:39,140 [INFO ][main            ][                Main] - 161 | Course name 161
+2016-12-24 14:34:39,140 [INFO ][main            ][                Main] - 162 | Course name 162
+2016-12-24 14:34:39,140 [INFO ][main            ][                Main] - 163 | Course name 163
+2016-12-24 14:34:39,140 [INFO ][main            ][                Main] - 164 | Course name 164
+2016-12-24 14:34:39,140 [INFO ][main            ][                Main] - 165 | Course name 165
+2016-12-24 14:34:39,140 [INFO ][main            ][                Main] - 166 | Course name 166
+2016-12-24 14:34:39,140 [INFO ][main            ][                Main] - 167 | Course name 167
+2016-12-24 14:34:39,140 [INFO ][main            ][                Main] - 168 | Course name 168
+2016-12-24 14:34:39,141 [INFO ][main            ][                Main] - 169 | Course name 169
+2016-12-24 14:34:39,141 [INFO ][main            ][                Main] - 170 | Course name 170
+2016-12-24 14:34:39,141 [INFO ][main            ][                Main] - 171 | Course name 171
+2016-12-24 14:34:39,141 [INFO ][main            ][                Main] - 172 | Course name 172
+2016-12-24 14:34:39,141 [INFO ][main            ][                Main] - 173 | Course name 173
+2016-12-24 14:34:39,141 [INFO ][main            ][                Main] - 174 | Course name 174
+2016-12-24 14:34:39,141 [INFO ][main            ][                Main] - 175 | Course name 175
+2016-12-24 14:34:39,141 [INFO ][main            ][                Main] - 176 | Course name 176
+2016-12-24 14:34:39,141 [INFO ][main            ][                Main] - 177 | Course name 177
+2016-12-24 14:34:39,141 [INFO ][main            ][                Main] - 178 | Course name 178
+2016-12-24 14:34:39,141 [INFO ][main            ][                Main] - 179 | Course name 179
+2016-12-24 14:34:39,141 [INFO ][main            ][                Main] - 180 | Course name 180
+2016-12-24 14:34:39,141 [INFO ][main            ][                Main] - 181 | Course name 181
+2016-12-24 14:34:39,142 [INFO ][main            ][                Main] - 182 | Course name 182
+2016-12-24 14:34:39,142 [INFO ][main            ][                Main] - 183 | Course name 183
+2016-12-24 14:34:39,142 [INFO ][main            ][                Main] - 184 | Course name 184
+2016-12-24 14:34:39,142 [INFO ][main            ][                Main] - 185 | Course name 185
+2016-12-24 14:34:39,142 [INFO ][main            ][                Main] - 186 | Course name 186
+2016-12-24 14:34:39,142 [INFO ][main            ][                Main] - 187 | Course name 187
+2016-12-24 14:34:39,142 [INFO ][main            ][                Main] - 188 | Course name 188
+2016-12-24 14:34:39,142 [INFO ][main            ][                Main] - 189 | Course name 189
+2016-12-24 14:34:39,142 [INFO ][main            ][                Main] - 190 | Course name 190
+2016-12-24 14:34:39,142 [INFO ][main            ][                Main] - 191 | Course name 191
+2016-12-24 14:34:39,142 [INFO ][main            ][                Main] - 192 | Course name 192
+2016-12-24 14:34:39,142 [INFO ][main            ][                Main] - 193 | Course name 193
+2016-12-24 14:34:39,143 [INFO ][main            ][                Main] - 194 | Course name 194
+2016-12-24 14:34:39,143 [INFO ][main            ][                Main] - 195 | Course name 195
+2016-12-24 14:34:39,143 [INFO ][main            ][                Main] - 196 | Course name 196
+2016-12-24 14:34:39,143 [INFO ][main            ][                Main] - 197 | Course name 197
+2016-12-24 14:34:39,143 [INFO ][main            ][                Main] - 198 | Course name 198
+2016-12-24 14:34:39,143 [INFO ][main            ][                Main] - 199 | Course name 199
+2016-12-25 18:41:45,834 [INFO ][main            ][                Main] - STUDENTS TABLE
+2016-12-25 18:41:45,852 [INFO ][main            ][                Main] - 0 | name0
+2016-12-25 18:41:45,852 [INFO ][main            ][                Main] - 1 | name1
+2016-12-25 18:41:45,853 [INFO ][main            ][                Main] - 2 | name2
+2016-12-25 18:41:45,853 [INFO ][main            ][                Main] - 3 | name3
+2016-12-25 18:41:45,853 [INFO ][main            ][                Main] - 4 | name4
+2016-12-25 18:41:45,853 [INFO ][main            ][                Main] - 5 | name5
+2016-12-25 18:41:45,854 [INFO ][main            ][                Main] - 6 | name6
+2016-12-25 18:41:45,854 [INFO ][main            ][                Main] - 7 | name7
+2016-12-25 18:41:45,854 [INFO ][main            ][                Main] - 8 | name8
+2016-12-25 18:41:45,854 [INFO ][main            ][                Main] - 9 | name9
+2016-12-25 18:41:45,854 [INFO ][main            ][                Main] - 10 | name10
+2016-12-25 18:41:45,855 [INFO ][main            ][                Main] - 11 | name11
+2016-12-25 18:41:45,855 [INFO ][main            ][                Main] - 12 | name12
+2016-12-25 18:41:45,855 [INFO ][main            ][                Main] - 13 | name13
+2016-12-25 18:41:45,855 [INFO ][main            ][                Main] - 14 | name14
+2016-12-25 18:41:45,868 [INFO ][main            ][                Main] - 15 | name15
+2016-12-25 18:41:45,870 [INFO ][main            ][                Main] - 16 | name16
+2016-12-25 18:41:45,878 [INFO ][main            ][                Main] - 17 | name17
+2016-12-25 18:41:45,878 [INFO ][main            ][                Main] - 18 | name18
+2016-12-25 18:41:45,887 [INFO ][main            ][                Main] - 19 | name19
+2016-12-25 18:41:45,887 [INFO ][main            ][                Main] - 20 | name20
+2016-12-25 18:41:45,888 [INFO ][main            ][                Main] - 21 | name21
+2016-12-25 18:41:45,888 [INFO ][main            ][                Main] - 22 | name22
+2016-12-25 18:41:45,888 [INFO ][main            ][                Main] - 23 | name23
+2016-12-25 18:41:45,888 [INFO ][main            ][                Main] - 24 | name24
+2016-12-25 18:41:45,888 [INFO ][main            ][                Main] - 25 | name25
+2016-12-25 18:41:45,889 [INFO ][main            ][                Main] - 26 | name26
+2016-12-25 18:41:45,889 [INFO ][main            ][                Main] - 27 | name27
+2016-12-25 18:41:45,889 [INFO ][main            ][                Main] - 28 | name28
+2016-12-25 18:41:45,889 [INFO ][main            ][                Main] - 29 | name29
+2016-12-25 18:41:45,889 [INFO ][main            ][                Main] - 30 | name30
+2016-12-25 18:41:45,889 [INFO ][main            ][                Main] - 31 | name31
+2016-12-25 18:41:45,890 [INFO ][main            ][                Main] - 32 | name32
+2016-12-25 18:41:45,890 [INFO ][main            ][                Main] - 33 | name33
+2016-12-25 18:41:45,890 [INFO ][main            ][                Main] - 34 | name34
+2016-12-25 18:41:45,891 [INFO ][main            ][                Main] - 35 | name35
+2016-12-25 18:41:45,891 [INFO ][main            ][                Main] - 36 | name36
+2016-12-25 18:41:45,892 [INFO ][main            ][                Main] - 37 | name37
+2016-12-25 18:41:45,894 [INFO ][main            ][                Main] - 38 | name38
+2016-12-25 18:41:45,895 [INFO ][main            ][                Main] - 39 | name39
+2016-12-25 18:41:45,895 [INFO ][main            ][                Main] - 40 | name40
+2016-12-25 18:41:45,895 [INFO ][main            ][                Main] - 41 | name41
+2016-12-25 18:41:45,896 [INFO ][main            ][                Main] - 42 | name42
+2016-12-25 18:41:45,896 [INFO ][main            ][                Main] - 43 | name43
+2016-12-25 18:41:45,896 [INFO ][main            ][                Main] - 44 | name44
+2016-12-25 18:41:45,899 [INFO ][main            ][                Main] - 45 | name45
+2016-12-25 18:41:45,901 [INFO ][main            ][                Main] - 46 | name46
+2016-12-25 18:41:45,902 [INFO ][main            ][                Main] - 47 | name47
+2016-12-25 18:41:45,902 [INFO ][main            ][                Main] - 48 | name48
+2016-12-25 18:41:45,902 [INFO ][main            ][                Main] - 49 | name49
+2016-12-25 18:41:45,903 [INFO ][main            ][                Main] - 50 | name50
+2016-12-25 18:41:45,903 [INFO ][main            ][                Main] - 51 | name51
+2016-12-25 18:41:45,903 [INFO ][main            ][                Main] - 52 | name52
+2016-12-25 18:41:45,903 [INFO ][main            ][                Main] - 53 | name53
+2016-12-25 18:41:45,903 [INFO ][main            ][                Main] - 54 | name54
+2016-12-25 18:41:45,903 [INFO ][main            ][                Main] - 55 | name55
+2016-12-25 18:41:45,904 [INFO ][main            ][                Main] - 56 | name56
+2016-12-25 18:41:45,904 [INFO ][main            ][                Main] - 57 | name57
+2016-12-25 18:41:45,904 [INFO ][main            ][                Main] - 58 | name58
+2016-12-25 18:41:45,904 [INFO ][main            ][                Main] - 59 | name59
+2016-12-25 18:41:45,904 [INFO ][main            ][                Main] - 60 | name60
+2016-12-25 18:41:45,904 [INFO ][main            ][                Main] - 61 | name61
+2016-12-25 18:41:45,904 [INFO ][main            ][                Main] - 62 | name62
+2016-12-25 18:41:45,909 [INFO ][main            ][                Main] - 63 | name63
+2016-12-25 18:41:45,910 [INFO ][main            ][                Main] - 64 | name64
+2016-12-25 18:41:45,920 [INFO ][main            ][                Main] - 65 | name65
+2016-12-25 18:41:45,920 [INFO ][main            ][                Main] - 66 | name66
+2016-12-25 18:41:45,920 [INFO ][main            ][                Main] - 67 | name67
+2016-12-25 18:41:45,920 [INFO ][main            ][                Main] - 68 | name68
+2016-12-25 18:41:45,920 [INFO ][main            ][                Main] - 69 | name69
+2016-12-25 18:41:45,920 [INFO ][main            ][                Main] - 70 | name70
+2016-12-25 18:41:45,921 [INFO ][main            ][                Main] - 71 | name71
+2016-12-25 18:41:45,921 [INFO ][main            ][                Main] - 72 | name72
+2016-12-25 18:41:45,921 [INFO ][main            ][                Main] - 73 | name73
+2016-12-25 18:41:45,921 [INFO ][main            ][                Main] - 74 | name74
+2016-12-25 18:41:45,921 [INFO ][main            ][                Main] - 75 | name75
+2016-12-25 18:41:45,921 [INFO ][main            ][                Main] - 76 | name76
+2016-12-25 18:41:45,921 [INFO ][main            ][                Main] - 77 | name77
+2016-12-25 18:41:45,922 [INFO ][main            ][                Main] - 78 | name78
+2016-12-25 18:41:45,922 [INFO ][main            ][                Main] - 79 | name79
+2016-12-25 18:41:45,922 [INFO ][main            ][                Main] - 80 | name80
+2016-12-25 18:41:45,922 [INFO ][main            ][                Main] - 81 | name81
+2016-12-25 18:41:45,922 [INFO ][main            ][                Main] - 82 | name82
+2016-12-25 18:41:45,922 [INFO ][main            ][                Main] - 83 | name83
+2016-12-25 18:41:45,922 [INFO ][main            ][                Main] - 84 | name84
+2016-12-25 18:41:45,923 [INFO ][main            ][                Main] - 85 | name85
+2016-12-25 18:41:45,923 [INFO ][main            ][                Main] - 86 | name86
+2016-12-25 18:41:45,923 [INFO ][main            ][                Main] - 87 | name87
+2016-12-25 18:41:45,924 [INFO ][main            ][                Main] - 88 | name88
+2016-12-25 18:41:45,924 [INFO ][main            ][                Main] - 89 | name89
+2016-12-25 18:41:45,924 [INFO ][main            ][                Main] - 90 | name90
+2016-12-25 18:41:45,924 [INFO ][main            ][                Main] - 91 | name91
+2016-12-25 18:41:45,924 [INFO ][main            ][                Main] - 92 | name92
+2016-12-25 18:41:45,925 [INFO ][main            ][                Main] - 93 | name93
+2016-12-25 18:41:45,925 [INFO ][main            ][                Main] - 94 | name94
+2016-12-25 18:41:45,925 [INFO ][main            ][                Main] - 95 | name95
+2016-12-25 18:41:45,925 [INFO ][main            ][                Main] - 96 | name96
+2016-12-25 18:41:45,925 [INFO ][main            ][                Main] - 97 | name97
+2016-12-25 18:41:45,925 [INFO ][main            ][                Main] - 98 | name98
+2016-12-25 18:41:45,925 [INFO ][main            ][                Main] - 99 | name99
+2016-12-25 18:41:45,925 [INFO ][main            ][                Main] - 100 | name100
+2016-12-25 18:41:45,927 [INFO ][main            ][                Main] - 101 | name101
+2016-12-25 18:41:45,927 [INFO ][main            ][                Main] - 102 | name102
+2016-12-25 18:41:45,928 [INFO ][main            ][                Main] - 103 | name103
+2016-12-25 18:41:45,935 [INFO ][main            ][                Main] - 104 | name104
+2016-12-25 18:41:45,936 [INFO ][main            ][                Main] - 105 | name105
+2016-12-25 18:41:45,936 [INFO ][main            ][                Main] - 106 | name106
+2016-12-25 18:41:45,936 [INFO ][main            ][                Main] - 107 | name107
+2016-12-25 18:41:45,936 [INFO ][main            ][                Main] - 108 | name108
+2016-12-25 18:41:45,936 [INFO ][main            ][                Main] - 109 | name109
+2016-12-25 18:41:45,936 [INFO ][main            ][                Main] - 110 | name110
+2016-12-25 18:41:45,936 [INFO ][main            ][                Main] - 111 | name111
+2016-12-25 18:41:45,936 [INFO ][main            ][                Main] - 112 | name112
+2016-12-25 18:41:45,936 [INFO ][main            ][                Main] - 113 | name113
+2016-12-25 18:41:45,936 [INFO ][main            ][                Main] - 114 | name114
+2016-12-25 18:41:45,937 [INFO ][main            ][                Main] - 115 | name115
+2016-12-25 18:41:45,937 [INFO ][main            ][                Main] - 116 | name116
+2016-12-25 18:41:45,937 [INFO ][main            ][                Main] - 117 | name117
+2016-12-25 18:41:45,937 [INFO ][main            ][                Main] - 118 | name118
+2016-12-25 18:41:45,937 [INFO ][main            ][                Main] - 119 | name119
+2016-12-25 18:41:45,937 [INFO ][main            ][                Main] - 120 | name120
+2016-12-25 18:41:45,937 [INFO ][main            ][                Main] - 121 | name121
+2016-12-25 18:41:45,937 [INFO ][main            ][                Main] - 122 | name122
+2016-12-25 18:41:45,937 [INFO ][main            ][                Main] - 123 | name123
+2016-12-25 18:41:45,937 [INFO ][main            ][                Main] - 124 | name124
+2016-12-25 18:41:45,937 [INFO ][main            ][                Main] - 125 | name125
+2016-12-25 18:41:45,937 [INFO ][main            ][                Main] - 126 | name126
+2016-12-25 18:41:45,938 [INFO ][main            ][                Main] - 127 | name127
+2016-12-25 18:41:45,938 [INFO ][main            ][                Main] - 128 | name128
+2016-12-25 18:41:45,938 [INFO ][main            ][                Main] - 129 | name129
+2016-12-25 18:41:45,938 [INFO ][main            ][                Main] - 130 | name130
+2016-12-25 18:41:45,938 [INFO ][main            ][                Main] - 131 | name131
+2016-12-25 18:41:45,938 [INFO ][main            ][                Main] - 132 | name132
+2016-12-25 18:41:45,938 [INFO ][main            ][                Main] - 133 | name133
+2016-12-25 18:41:45,938 [INFO ][main            ][                Main] - 134 | name134
+2016-12-25 18:41:45,939 [INFO ][main            ][                Main] - 135 | name135
+2016-12-25 18:41:45,939 [INFO ][main            ][                Main] - 136 | name136
+2016-12-25 18:41:45,939 [INFO ][main            ][                Main] - 137 | name137
+2016-12-25 18:41:45,940 [INFO ][main            ][                Main] - 138 | name138
+2016-12-25 18:41:45,940 [INFO ][main            ][                Main] - 139 | name139
+2016-12-25 18:41:45,940 [INFO ][main            ][                Main] - 140 | name140
+2016-12-25 18:41:45,941 [INFO ][main            ][                Main] - 141 | name141
+2016-12-25 18:41:45,941 [INFO ][main            ][                Main] - 142 | name142
+2016-12-25 18:41:45,941 [INFO ][main            ][                Main] - 143 | name143
+2016-12-25 18:41:45,941 [INFO ][main            ][                Main] - 144 | name144
+2016-12-25 18:41:45,942 [INFO ][main            ][                Main] - 145 | name145
+2016-12-25 18:41:45,942 [INFO ][main            ][                Main] - 146 | name146
+2016-12-25 18:41:45,942 [INFO ][main            ][                Main] - 147 | name147
+2016-12-25 18:41:45,942 [INFO ][main            ][                Main] - 148 | name148
+2016-12-25 18:41:45,942 [INFO ][main            ][                Main] - 149 | name149
+2016-12-25 18:41:45,943 [INFO ][main            ][                Main] - 150 | name150
+2016-12-25 18:41:45,943 [INFO ][main            ][                Main] - 151 | name151
+2016-12-25 18:41:45,944 [INFO ][main            ][                Main] - 152 | name152
+2016-12-25 18:41:45,944 [INFO ][main            ][                Main] - 153 | name153
+2016-12-25 18:41:45,944 [INFO ][main            ][                Main] - 154 | name154
+2016-12-25 18:41:45,944 [INFO ][main            ][                Main] - 155 | name155
+2016-12-25 18:41:45,944 [INFO ][main            ][                Main] - 156 | name156
+2016-12-25 18:41:45,944 [INFO ][main            ][                Main] - 157 | name157
+2016-12-25 18:41:45,944 [INFO ][main            ][                Main] - 158 | name158
+2016-12-25 18:41:45,944 [INFO ][main            ][                Main] - 159 | name159
+2016-12-25 18:41:45,944 [INFO ][main            ][                Main] - 160 | name160
+2016-12-25 18:41:45,944 [INFO ][main            ][                Main] - 161 | name161
+2016-12-25 18:41:45,945 [INFO ][main            ][                Main] - 162 | name162
+2016-12-25 18:41:45,945 [INFO ][main            ][                Main] - 163 | name163
+2016-12-25 18:41:45,945 [INFO ][main            ][                Main] - 164 | name164
+2016-12-25 18:41:45,945 [INFO ][main            ][                Main] - 165 | name165
+2016-12-25 18:41:45,946 [INFO ][main            ][                Main] - 166 | name166
+2016-12-25 18:41:45,946 [INFO ][main            ][                Main] - 167 | name167
+2016-12-25 18:41:45,946 [INFO ][main            ][                Main] - 168 | name168
+2016-12-25 18:41:45,946 [INFO ][main            ][                Main] - 169 | name169
+2016-12-25 18:41:45,947 [INFO ][main            ][                Main] - 170 | name170
+2016-12-25 18:41:45,947 [INFO ][main            ][                Main] - 171 | name171
+2016-12-25 18:41:45,948 [INFO ][main            ][                Main] - 172 | name172
+2016-12-25 18:41:45,952 [INFO ][main            ][                Main] - 173 | name173
+2016-12-25 18:41:45,952 [INFO ][main            ][                Main] - 174 | name174
+2016-12-25 18:41:45,952 [INFO ][main            ][                Main] - 175 | name175
+2016-12-25 18:41:45,955 [INFO ][main            ][                Main] - 176 | name176
+2016-12-25 18:41:45,956 [INFO ][main            ][                Main] - 177 | name177
+2016-12-25 18:41:45,956 [INFO ][main            ][                Main] - 178 | name178
+2016-12-25 18:41:45,956 [INFO ][main            ][                Main] - 179 | name179
+2016-12-25 18:41:45,956 [INFO ][main            ][                Main] - 180 | name180
+2016-12-25 18:41:45,956 [INFO ][main            ][                Main] - 181 | name181
+2016-12-25 18:41:45,956 [INFO ][main            ][                Main] - 182 | name182
+2016-12-25 18:41:45,957 [INFO ][main            ][                Main] - 183 | name183
+2016-12-25 18:41:45,957 [INFO ][main            ][                Main] - 184 | name184
+2016-12-25 18:41:45,957 [INFO ][main            ][                Main] - 185 | name185
+2016-12-25 18:41:45,957 [INFO ][main            ][                Main] - 186 | name186
+2016-12-25 18:41:45,957 [INFO ][main            ][                Main] - 187 | name187
+2016-12-25 18:41:45,957 [INFO ][main            ][                Main] - 188 | name188
+2016-12-25 18:41:45,958 [INFO ][main            ][                Main] - 189 | name189
+2016-12-25 18:41:45,958 [INFO ][main            ][                Main] - 190 | name190
+2016-12-25 18:41:45,958 [INFO ][main            ][                Main] - 191 | name191
+2016-12-25 18:41:45,959 [INFO ][main            ][                Main] - 192 | name192
+2016-12-25 18:41:45,959 [INFO ][main            ][                Main] - 193 | name193
+2016-12-25 18:41:45,959 [INFO ][main            ][                Main] - 194 | name194
+2016-12-25 18:41:45,959 [INFO ][main            ][                Main] - 195 | name195
+2016-12-25 18:41:45,959 [INFO ][main            ][                Main] - 196 | name196
+2016-12-25 18:41:45,959 [INFO ][main            ][                Main] - 197 | name197
+2016-12-25 18:41:45,959 [INFO ][main            ][                Main] - 198 | name198
+2016-12-25 18:41:45,959 [INFO ][main            ][                Main] - 199 | name199
+2016-12-25 18:41:45,973 [INFO ][main            ][                Main] - LECTURES TABLE
+2016-12-25 18:41:45,973 [INFO ][main            ][                Main] - 0 | Course name 0
+2016-12-25 18:41:45,973 [INFO ][main            ][                Main] - 1 | Course name 1
+2016-12-25 18:41:45,973 [INFO ][main            ][                Main] - 2 | Course name 2
+2016-12-25 18:41:45,973 [INFO ][main            ][                Main] - 3 | Course name 3
+2016-12-25 18:41:45,974 [INFO ][main            ][                Main] - 4 | Course name 4
+2016-12-25 18:41:45,974 [INFO ][main            ][                Main] - 5 | Course name 5
+2016-12-25 18:41:45,974 [INFO ][main            ][                Main] - 6 | Course name 6
+2016-12-25 18:41:45,974 [INFO ][main            ][                Main] - 7 | Course name 7
+2016-12-25 18:41:45,974 [INFO ][main            ][                Main] - 8 | Course name 8
+2016-12-25 18:41:45,974 [INFO ][main            ][                Main] - 9 | Course name 9
+2016-12-25 18:41:45,974 [INFO ][main            ][                Main] - 10 | Course name 10
+2016-12-25 18:41:45,974 [INFO ][main            ][                Main] - 11 | Course name 11
+2016-12-25 18:41:45,974 [INFO ][main            ][                Main] - 12 | Course name 12
+2016-12-25 18:41:45,974 [INFO ][main            ][                Main] - 13 | Course name 13
+2016-12-25 18:41:45,974 [INFO ][main            ][                Main] - 14 | Course name 14
+2016-12-25 18:41:45,975 [INFO ][main            ][                Main] - 15 | Course name 15
+2016-12-25 18:41:45,975 [INFO ][main            ][                Main] - 16 | Course name 16
+2016-12-25 18:41:45,975 [INFO ][main            ][                Main] - 17 | Course name 17
+2016-12-25 18:41:45,975 [INFO ][main            ][                Main] - 18 | Course name 18
+2016-12-25 18:41:45,975 [INFO ][main            ][                Main] - 19 | Course name 19
+2016-12-25 18:41:45,975 [INFO ][main            ][                Main] - 20 | Course name 20
+2016-12-25 18:41:45,975 [INFO ][main            ][                Main] - 21 | Course name 21
+2016-12-25 18:41:45,975 [INFO ][main            ][                Main] - 22 | Course name 22
+2016-12-25 18:41:45,975 [INFO ][main            ][                Main] - 23 | Course name 23
+2016-12-25 18:41:45,975 [INFO ][main            ][                Main] - 24 | Course name 24
+2016-12-25 18:41:45,975 [INFO ][main            ][                Main] - 25 | Course name 25
+2016-12-25 18:41:45,976 [INFO ][main            ][                Main] - 26 | Course name 26
+2016-12-25 18:41:45,976 [INFO ][main            ][                Main] - 27 | Course name 27
+2016-12-25 18:41:45,976 [INFO ][main            ][                Main] - 28 | Course name 28
+2016-12-25 18:41:45,976 [INFO ][main            ][                Main] - 29 | Course name 29
+2016-12-25 18:41:45,976 [INFO ][main            ][                Main] - 30 | Course name 30
+2016-12-25 18:41:45,976 [INFO ][main            ][                Main] - 31 | Course name 31
+2016-12-25 18:41:45,976 [INFO ][main            ][                Main] - 32 | Course name 32
+2016-12-25 18:41:45,976 [INFO ][main            ][                Main] - 33 | Course name 33
+2016-12-25 18:41:45,976 [INFO ][main            ][                Main] - 34 | Course name 34
+2016-12-25 18:41:45,976 [INFO ][main            ][                Main] - 35 | Course name 35
+2016-12-25 18:41:45,977 [INFO ][main            ][                Main] - 36 | Course name 36
+2016-12-25 18:41:45,977 [INFO ][main            ][                Main] - 37 | Course name 37
+2016-12-25 18:41:45,977 [INFO ][main            ][                Main] - 38 | Course name 38
+2016-12-25 18:41:45,977 [INFO ][main            ][                Main] - 39 | Course name 39
+2016-12-25 18:41:45,978 [INFO ][main            ][                Main] - 40 | Course name 40
+2016-12-25 18:41:45,978 [INFO ][main            ][                Main] - 41 | Course name 41
+2016-12-25 18:41:45,979 [INFO ][main            ][                Main] - 42 | Course name 42
+2016-12-25 18:41:45,979 [INFO ][main            ][                Main] - 43 | Course name 43
+2016-12-25 18:41:45,979 [INFO ][main            ][                Main] - 44 | Course name 44
+2016-12-25 18:41:45,979 [INFO ][main            ][                Main] - 45 | Course name 45
+2016-12-25 18:41:45,979 [INFO ][main            ][                Main] - 46 | Course name 46
+2016-12-25 18:41:45,979 [INFO ][main            ][                Main] - 47 | Course name 47
+2016-12-25 18:41:45,980 [INFO ][main            ][                Main] - 48 | Course name 48
+2016-12-25 18:41:45,980 [INFO ][main            ][                Main] - 49 | Course name 49
+2016-12-25 18:41:45,980 [INFO ][main            ][                Main] - 50 | Course name 50
+2016-12-25 18:41:45,980 [INFO ][main            ][                Main] - 51 | Course name 51
+2016-12-25 18:41:45,980 [INFO ][main            ][                Main] - 52 | Course name 52
+2016-12-25 18:41:45,980 [INFO ][main            ][                Main] - 53 | Course name 53
+2016-12-25 18:41:45,981 [INFO ][main            ][                Main] - 54 | Course name 54
+2016-12-25 18:41:45,981 [INFO ][main            ][                Main] - 55 | Course name 55
+2016-12-25 18:41:45,981 [INFO ][main            ][                Main] - 56 | Course name 56
+2016-12-25 18:41:45,981 [INFO ][main            ][                Main] - 57 | Course name 57
+2016-12-25 18:41:45,981 [INFO ][main            ][                Main] - 58 | Course name 58
+2016-12-25 18:41:45,981 [INFO ][main            ][                Main] - 59 | Course name 59
+2016-12-25 18:41:45,981 [INFO ][main            ][                Main] - 60 | Course name 60
+2016-12-25 18:41:45,982 [INFO ][main            ][                Main] - 61 | Course name 61
+2016-12-25 18:41:45,982 [INFO ][main            ][                Main] - 62 | Course name 62
+2016-12-25 18:41:45,982 [INFO ][main            ][                Main] - 63 | Course name 63
+2016-12-25 18:41:45,982 [INFO ][main            ][                Main] - 64 | Course name 64
+2016-12-25 18:41:45,982 [INFO ][main            ][                Main] - 65 | Course name 65
+2016-12-25 18:41:45,987 [INFO ][main            ][                Main] - 66 | Course name 66
+2016-12-25 18:41:45,987 [INFO ][main            ][                Main] - 67 | Course name 67
+2016-12-25 18:41:45,988 [INFO ][main            ][                Main] - 68 | Course name 68
+2016-12-25 18:41:45,988 [INFO ][main            ][                Main] - 69 | Course name 69
+2016-12-25 18:41:45,988 [INFO ][main            ][                Main] - 70 | Course name 70
+2016-12-25 18:41:45,988 [INFO ][main            ][                Main] - 71 | Course name 71
+2016-12-25 18:41:45,988 [INFO ][main            ][                Main] - 72 | Course name 72
+2016-12-25 18:41:45,988 [INFO ][main            ][                Main] - 73 | Course name 73
+2016-12-25 18:41:45,988 [INFO ][main            ][                Main] - 74 | Course name 74
+2016-12-25 18:41:45,988 [INFO ][main            ][                Main] - 75 | Course name 75
+2016-12-25 18:41:45,988 [INFO ][main            ][                Main] - 76 | Course name 76
+2016-12-25 18:41:45,989 [INFO ][main            ][                Main] - 77 | Course name 77
+2016-12-25 18:41:45,989 [INFO ][main            ][                Main] - 78 | Course name 78
+2016-12-25 18:41:45,989 [INFO ][main            ][                Main] - 79 | Course name 79
+2016-12-25 18:41:45,989 [INFO ][main            ][                Main] - 80 | Course name 80
+2016-12-25 18:41:45,990 [INFO ][main            ][                Main] - 81 | Course name 81
+2016-12-25 18:41:45,990 [INFO ][main            ][                Main] - 82 | Course name 82
+2016-12-25 18:41:45,990 [INFO ][main            ][                Main] - 83 | Course name 83
+2016-12-25 18:41:45,990 [INFO ][main            ][                Main] - 84 | Course name 84
+2016-12-25 18:41:45,990 [INFO ][main            ][                Main] - 85 | Course name 85
+2016-12-25 18:41:45,990 [INFO ][main            ][                Main] - 86 | Course name 86
+2016-12-25 18:41:45,990 [INFO ][main            ][                Main] - 87 | Course name 87
+2016-12-25 18:41:45,990 [INFO ][main            ][                Main] - 88 | Course name 88
+2016-12-25 18:41:45,990 [INFO ][main            ][                Main] - 89 | Course name 89
+2016-12-25 18:41:45,990 [INFO ][main            ][                Main] - 90 | Course name 90
+2016-12-25 18:41:45,990 [INFO ][main            ][                Main] - 91 | Course name 91
+2016-12-25 18:41:45,990 [INFO ][main            ][                Main] - 92 | Course name 92
+2016-12-25 18:41:45,990 [INFO ][main            ][                Main] - 93 | Course name 93
+2016-12-25 18:41:45,991 [INFO ][main            ][                Main] - 94 | Course name 94
+2016-12-25 18:41:45,991 [INFO ][main            ][                Main] - 95 | Course name 95
+2016-12-25 18:41:45,991 [INFO ][main            ][                Main] - 96 | Course name 96
+2016-12-25 18:41:45,991 [INFO ][main            ][                Main] - 97 | Course name 97
+2016-12-25 18:41:45,991 [INFO ][main            ][                Main] - 98 | Course name 98
+2016-12-25 18:41:45,991 [INFO ][main            ][                Main] - 99 | Course name 99
+2016-12-25 18:41:45,991 [INFO ][main            ][                Main] - 100 | Course name 100
+2016-12-25 18:41:45,991 [INFO ][main            ][                Main] - 101 | Course name 101
+2016-12-25 18:41:45,996 [INFO ][main            ][                Main] - 102 | Course name 102
+2016-12-25 18:41:45,996 [INFO ][main            ][                Main] - 103 | Course name 103
+2016-12-25 18:41:45,996 [INFO ][main            ][                Main] - 104 | Course name 104
+2016-12-25 18:41:45,996 [INFO ][main            ][                Main] - 105 | Course name 105
+2016-12-25 18:41:45,997 [INFO ][main            ][                Main] - 106 | Course name 106
+2016-12-25 18:41:45,997 [INFO ][main            ][                Main] - 107 | Course name 107
+2016-12-25 18:41:45,997 [INFO ][main            ][                Main] - 108 | Course name 108
+2016-12-25 18:41:45,997 [INFO ][main            ][                Main] - 109 | Course name 109
+2016-12-25 18:41:45,997 [INFO ][main            ][                Main] - 110 | Course name 110
+2016-12-25 18:41:45,997 [INFO ][main            ][                Main] - 111 | Course name 111
+2016-12-25 18:41:45,997 [INFO ][main            ][                Main] - 112 | Course name 112
+2016-12-25 18:41:45,997 [INFO ][main            ][                Main] - 113 | Course name 113
+2016-12-25 18:41:45,997 [INFO ][main            ][                Main] - 114 | Course name 114
+2016-12-25 18:41:45,997 [INFO ][main            ][                Main] - 115 | Course name 115
+2016-12-25 18:41:45,997 [INFO ][main            ][                Main] - 116 | Course name 116
+2016-12-25 18:41:45,997 [INFO ][main            ][                Main] - 117 | Course name 117
+2016-12-25 18:41:45,997 [INFO ][main            ][                Main] - 118 | Course name 118
+2016-12-25 18:41:45,998 [INFO ][main            ][                Main] - 119 | Course name 119
+2016-12-25 18:41:46,000 [INFO ][main            ][                Main] - 120 | Course name 120
+2016-12-25 18:41:46,010 [INFO ][main            ][                Main] - 121 | Course name 121
+2016-12-25 18:41:46,010 [INFO ][main            ][                Main] - 122 | Course name 122
+2016-12-25 18:41:46,010 [INFO ][main            ][                Main] - 123 | Course name 123
+2016-12-25 18:41:46,010 [INFO ][main            ][                Main] - 124 | Course name 124
+2016-12-25 18:41:46,010 [INFO ][main            ][                Main] - 125 | Course name 125
+2016-12-25 18:41:46,010 [INFO ][main            ][                Main] - 126 | Course name 126
+2016-12-25 18:41:46,010 [INFO ][main            ][                Main] - 127 | Course name 127
+2016-12-25 18:41:46,010 [INFO ][main            ][                Main] - 128 | Course name 128
+2016-12-25 18:41:46,010 [INFO ][main            ][                Main] - 129 | Course name 129
+2016-12-25 18:41:46,010 [INFO ][main            ][                Main] - 130 | Course name 130
+2016-12-25 18:41:46,010 [INFO ][main            ][                Main] - 131 | Course name 131
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 132 | Course name 132
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 133 | Course name 133
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 134 | Course name 134
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 135 | Course name 135
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 136 | Course name 136
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 137 | Course name 137
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 138 | Course name 138
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 139 | Course name 139
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 140 | Course name 140
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 141 | Course name 141
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 142 | Course name 142
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 143 | Course name 143
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 144 | Course name 144
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 145 | Course name 145
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 146 | Course name 146
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 147 | Course name 147
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 148 | Course name 148
+2016-12-25 18:41:46,011 [INFO ][main            ][                Main] - 149 | Course name 149
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 150 | Course name 150
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 151 | Course name 151
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 152 | Course name 152
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 153 | Course name 153
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 154 | Course name 154
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 155 | Course name 155
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 156 | Course name 156
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 157 | Course name 157
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 158 | Course name 158
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 159 | Course name 159
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 160 | Course name 160
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 161 | Course name 161
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 162 | Course name 162
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 163 | Course name 163
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 164 | Course name 164
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 165 | Course name 165
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 166 | Course name 166
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 167 | Course name 167
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 168 | Course name 168
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 169 | Course name 169
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 170 | Course name 170
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 171 | Course name 171
+2016-12-25 18:41:46,012 [INFO ][main            ][                Main] - 172 | Course name 172
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 173 | Course name 173
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 174 | Course name 174
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 175 | Course name 175
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 176 | Course name 176
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 177 | Course name 177
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 178 | Course name 178
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 179 | Course name 179
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 180 | Course name 180
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 181 | Course name 181
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 182 | Course name 182
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 183 | Course name 183
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 184 | Course name 184
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 185 | Course name 185
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 186 | Course name 186
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 187 | Course name 187
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 188 | Course name 188
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 189 | Course name 189
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 190 | Course name 190
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 191 | Course name 191
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 192 | Course name 192
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 193 | Course name 193
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 194 | Course name 194
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 195 | Course name 195
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 196 | Course name 196
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 197 | Course name 197
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 198 | Course name 198
+2016-12-25 18:41:46,013 [INFO ][main            ][                Main] - 199 | Course name 199
+2016-12-25 21:03:29,169 [INFO ][main            ][                Main] - Database successfully created
+2016-12-25 21:33:31,941 [INFO ][main            ][                Main] - STUDENTS TABLE
+2016-12-25 21:33:58,397 [INFO ][main            ][                Main] - PRODUCTS TABLE
+2016-12-26 20:15:24,853 [INFO ][main            ][                Main] - PRODUCTS TABLE
