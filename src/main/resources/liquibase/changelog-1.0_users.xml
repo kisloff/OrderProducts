@@ -4,20 +4,15 @@
         xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
                       http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd">
     <changeSet id="2" author="kkiselev">
-        <createTable tableName="user">
+        <createTable tableName="users">
             <column name="id" type="int" autoIncrement="true">
                 <constraints primaryKey="true" nullable="false"/>
             </column>
-            <column name="status" type="boolean" defaultValueBoolean="true"/>
             <column name="name" type="varchar(80)">
                 <constraints nullable="false"/>
             </column>
-            <column name="email" type="varchar(80)">
-                <constraints nullable="false"/>
-            </column>
-            <column name="password" type="varchar(80)">
-                <constraints nullable="false"/>
-            </column>
+            <column name="address" type="varchar(80)"/>
+            <column name="phone_number" type="varchar(80)"/>
         </createTable>
     </changeSet>
 </databaseChangeLog>

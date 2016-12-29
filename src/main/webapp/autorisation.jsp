@@ -13,21 +13,11 @@
 </head>
 <body>
 
-${products}
-
-<%
-    List<Product> lp = (List<Product>)request.getAttribute ("products")
-%>
-
-
-
-
-
-
 <form action="admin.jsp" method="get" target="_blank">
     Логин: <input type="text" name="login"><br>
     Пароль: <input type="password" name="password"><br>
     <input type="submit" value="Войти">
 </form>
+
 </body>
 </html>

@@ -1,4 +1,4 @@
-package ru.kkiselev;
+package ru.kkiselev.controller;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

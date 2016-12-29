@@ -1,0 +1,33 @@
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                      http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd">
+    <changeSet id="7" author="kkiselev">
+        <addForeignKeyConstraint baseTableName="basket_item"
+                                 baseColumnNames="basket_id"
+                                 constraintName="fk_basketb_id"
+                                 referencedTableName="baskets"
+                                 referencedColumnNames="id"/>
+
+        <addForeignKeyConstraint baseTableName="basket_item"
+                                 baseColumnNames="product_id"
+                                 constraintName="fk_product_id"
+                                 referencedTableName="baskets"
+                                 referencedColumnNames="id"/>
+
+        <addForeignKeyConstraint baseTableName="baskets"
+                                 baseColumnNames="user_id"
+                                 constraintName="fk_users_id"
+                                 referencedTableName="users"
+                                 referencedColumnNames="id"/>
+
+        <addForeignKeyConstraint baseTableName="orders"
+                                 baseColumnNames="basket_id"
+                                 constraintName="fk_basketo_id"
+                                 referencedTableName="baskets"
+                                 referencedColumnNames="id"/>
+
+        <!--<addUniqueConstraint tableName="users" columnNames="email"/>-->
+    </changeSet>
+</databaseChangeLog>

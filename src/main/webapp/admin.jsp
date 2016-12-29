@@ -12,5 +12,7 @@
 </head>
 <body>
 
+Add delete redact products
+
 </body>
 </html>
