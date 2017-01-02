@@ -13,22 +13,22 @@ public class UserService implements Service<User>{
     UserDAO ud = new UserDAO();
 
     @Override
-    public List<User> getAll() throws SQLException {
+    public List<User> getAll(){
         return ud.getAll();
     }
 
     @Override
-    public User getById(long id) throws SQLException {
+    public User getById(long id){
         return ud.getById(id);
     }
 
     @Override
-    public void deleteById(long id) throws SQLException {
+    public void deleteById(long id){
         ud.deleteById(id);
     }
 
     @Override
-    public void updateById(User instance) throws SQLException {
+    public void updateById(User instance){
         ud.updateById(instance);
     }
 }

@@ -11,22 +11,22 @@ import java.util.List;
 public class BasketDAO implements DAO<Basket> {
 
     @Override
-    public List<Basket> getAll() throws SQLException {
+    public List<Basket> getAll(){
         return null;
     }
 
     @Override
-    public Basket getById(long id) throws SQLException {
+    public Basket getById(long id){
         return null;
     }
 
     @Override
-    public void deleteById(long id) throws SQLException {
+    public void deleteById(long id){
 
     }
 
     @Override
-    public void updateById(Basket instance) throws SQLException {
+    public void updateById(Basket instance) {
 
     }
 }

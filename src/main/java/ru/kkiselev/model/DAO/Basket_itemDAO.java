@@ -14,22 +14,22 @@ public class Basket_itemDAO implements DAO<Basket_itemDAO> {
     private static final Logger LOG = LoggerFactory.getLogger(Basket_itemDAO.class);
 
     @Override
-    public List<Basket_itemDAO> getAll() throws SQLException {
+    public List<Basket_itemDAO> getAll(){
         return null;
     }
 
     @Override
-    public Basket_itemDAO getById(long id) throws SQLException {
+    public Basket_itemDAO getById(long id) {
         return null;
     }
 
     @Override
-    public void deleteById(long id) throws SQLException {
+    public void deleteById(long id) {
 
     }
 
     @Override
-    public void updateById(Basket_itemDAO instance) throws SQLException {
+    public void updateById(Basket_itemDAO instance) {
 
     }
 }

@@ -11,10 +11,12 @@ import java.sql.*;
  */
 public class AdminDAO {
 
+    private static final String REGISTER_ADMIN = "INSERT INTO ADMINS values login = ?, password = ?";
+    private static final String IS_ADMIN_QUERY = "SELECT COUNT (1) FROM ADMINS where LOGIN = ? and Password = ?";
+
     private static final Logger LOG = LoggerFactory.getLogger(Basket_itemDAO.class);
 
     public void register(String login, String password){
-        String REGISTER_ADMIN = "INSERT INTO ADMINS values login = ?, password = ?";
 
         try (Connection conn = DBConnection.getConnection();
              PreparedStatement statement = conn.prepareStatement(REGISTER_ADMIN)) {
@@ -32,7 +34,7 @@ public class AdminDAO {
     }
 
     public boolean isAdmin(String login, String password){
-        String IS_ADMIN_QUERY = "SELECT COUNT (1) FROM ADMINS where LOGIN = ? and Password = ?";
+
         boolean isAdmin = false;
 
         int count = 0;
@@ -53,7 +55,6 @@ public class AdminDAO {
         if(count > 0){
             isAdmin = true;
         }
-
         return isAdmin;
     }
 }

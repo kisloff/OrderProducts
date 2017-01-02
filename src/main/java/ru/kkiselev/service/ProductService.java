@@ -17,22 +17,22 @@ public class ProductService implements Service<Product>{
     ProductDAO pd = new ProductDAO();
 
     @Override
-    public List getAll() throws SQLException {
+    public List getAll() {
         return pd.getAll();
     }
 
     @Override
-    public Product getById(long id) throws SQLException {
+    public Product getById(long id) {
         return pd.getById(id);
     }
 
     @Override
-    public void deleteById(long id) throws SQLException {
+    public void deleteById(long id) {
         pd.deleteById(id);
     }
 
     @Override
-    public void updateById(Product instance) throws SQLException {
+    public void updateById(Product instance){
         pd.updateById(instance);
     }
 }

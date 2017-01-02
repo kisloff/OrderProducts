@@ -30,19 +30,13 @@ public class MyServlet extends HttpServlet {
 
         List users = null;
         UserService us = new UserService();
-        try {
             users = us.getAll();
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
+
 
         List products = null;
         ProductService ps = new ProductService();
-        try {
             products = ps.getAll();
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
+
 
         request.setAttribute("message", name);
         request.setAttribute("users", users);

@@ -18,10 +18,12 @@ public class UserDAO implements DAO<User> {
 
     private static final Logger LOG = LoggerFactory.getLogger(UserDAO.class);
 
-    @Override
-    public List<User> getAll() throws SQLException {
+    private static String SELECT_ALL_USERS = "SELECT * FROM USERS ";
 
-        String SELECT_ALL_USERS = "SELECT * FROM USERS ";
+    private static String UPDATE_USER = "UPDATE USERS set name = ?, address = ?, phone_number = ? WHERE ID = ?";
+
+    @Override
+    public List<User> getAll(){
 
         List<User> users = new ArrayList();
 
@@ -38,10 +40,9 @@ public class UserDAO implements DAO<User> {
                 user.setPhone_number(resultSet.getString(4));
 
                 users.add(user);
-                //LOG.info(new StringBuilder().append(resultSet.getInt(1)).append(" | ").append(resultSet.getString(2)).toString());
             }
-        } catch (Exception e){
-            e.printStackTrace();
+        } catch (SQLException e){
+            LOG.error(e.getMessage());
         }
 
         LOG.info("All Users retrieved");
@@ -49,16 +50,15 @@ public class UserDAO implements DAO<User> {
     }
 
     @Override
-    public User getById(long id) throws SQLException {
+    public User getById(long id){
 
         String SELECT_USER = "SELECT * FROM USERS WHERE ID = " + id;
 
         User user = new User();
-
-        try (Connection conn = DBConnection.getConnection();
+        Connection conn = DBConnection.getConnection();
+        try (
              Statement statement = conn.createStatement()) {
             ResultSet resultSet = statement.executeQuery(SELECT_USER);
-
 
             if (resultSet.next()) {
                 user.setId(resultSet.getInt(1));
@@ -66,8 +66,9 @@ public class UserDAO implements DAO<User> {
                 user.setAddress(resultSet.getString(3));
                 user.setPhone_number(resultSet.getString(4));
 
-                //LOG.info(new StringBuilder().append(resultSet.getInt(1)).append(" | ").append(resultSet.getString(2)).toString());
             }
+        } catch (SQLException e){
+            LOG.error(e.getMessage());
         }
 
         LOG.info("User" +id + "retrieved");
@@ -75,27 +76,32 @@ public class UserDAO implements DAO<User> {
     }
 
     @Override
-    public void deleteById(long id) throws SQLException {
+    public void deleteById(long id){
         String DELETE_USER = "DELETE USERS WHERE ID = " + id;
-
-        try (Connection conn = DBConnection.getConnection();
+        Connection conn = DBConnection.getConnection();
+        try (
              Statement statement = conn.createStatement()) {
             statement.execute(DELETE_USER);
             LOG.info("User" +id + "deleted");
+        } catch (SQLException e){
+            LOG.error(e.getMessage());
         }
     }
 
     @Override
-    public void updateById(User instance) throws SQLException {
-       String UPDATE_USER = "UPDATE USERS set name = ?, address = ?, phone_number = ? WHERE ID = ?";
+    public void updateById(User instance){
+
         try (Connection conn = DBConnection.getConnection();
              PreparedStatement statement = conn.prepareStatement(UPDATE_USER)) {
             statement.setString(1, instance.getName());
             statement.setString(2, instance.getAddress());
             statement.setString(3, instance.getPhone_number());
+            statement.setInt(4, instance.getId());
 
             statement.execute();
             LOG.info("User" +instance.getId() + "updated");
+        } catch (SQLException e){
+            LOG.error(e.getMessage());
         }
     }
 }
